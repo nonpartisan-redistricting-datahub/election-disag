@@ -3,7 +3,7 @@
 
 ### Directory explanation
 - oh_22_disag_v1.ipynb: disaggregation script for statewide results
-- oh_22_disag_v2.ipyn: WIP - NOT USED TO PRODUCE ANY FILES - this notebook was used to investigate disaggregating district level results according to appropriate precinct splits and is added here for team's future reference only.
+- sandbox.ipynb: WIP - NOT USED TO PRODUCE ANY FILES - this notebook was used to investigate disaggregating district level results according to appropriate precinct splits and is added here for team's future reference only.
 
 ### Additional Notes
 At the precinct level we provide congressional and legislative district results at the precinct level split by district. In order to disaggregate results for those contests, those precinct files should be used. In running our script, however, some of the disaggregated shapes produced are so small that they do not receive a block assignment and as a result the precinct and state totals do not match pre vs. post disaggregation. 
